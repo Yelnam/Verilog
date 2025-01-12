@@ -1,0 +1,14 @@
+# Build artifacts
+*.vcd
+*.vvp
+
+# Backup files
+*~
+
+# IDE/Editor specific
+.vscode/
+*.swp
+
+# OS specific
+.DS_Store
+Thumbs.db
